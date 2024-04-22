@@ -1,5 +1,3 @@
-<script setup lang="ts"></script>
-
 <template>
-  <main>фыв</main>
+  <main>asd</main>
 </template>
