@@ -1,5 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <main>asd</main>
+  <main>
+    <h1>{{ $t('hello') }}</h1>
+  </main>
 </template>
