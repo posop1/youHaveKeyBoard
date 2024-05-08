@@ -1,3 +1,15 @@
 {
-  "hello": "hello"
+  "language": {
+    "this": "Language",
+    "short": "EN"
+  },
+  "header": {
+    "links": {
+      "home": "Home",
+      "training": "Training"
+    }
+  },
+  "homeView": {
+    "slogan": "Bro, you have a keyboard, why don't you use it, just practice."
+  }
 }

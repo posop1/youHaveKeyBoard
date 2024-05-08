@@ -1,11 +1,11 @@
-<script setup lang="scss">
+<script setup lang="ts">
 import { RouterView } from 'vue-router'
 
-import Header from './Header'
+import Header from './Header.vue'
 </script>
 
 <template>
-  <div>
+  <div class="flex flex-col items-center bg-zinc-100 min-h-dvh">
     <Header />
     <RouterView />
   </div>
