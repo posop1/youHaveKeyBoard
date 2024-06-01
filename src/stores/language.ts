@@ -10,8 +10,6 @@ export const useLanguageStore = defineStore('language', () => {
   function changeLanguage(language: string) {
     currentLanguage.value = language
 
-    console.log(currentLanguage.value)
-
     useLocalStorage('language', '').value = language
   }
 

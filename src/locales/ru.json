@@ -11,5 +11,15 @@
   },
   "homeView": {
     "slogan": "Бро, у тебя есть клавиатура, почему бы тебе ей не воспользоваться, просто потренируйся."
+  },
+  "trainingView": {
+    "repeatAgain": "Повторить Еще Раз",
+    "statistic": {
+      "accuracy": "Точность",
+      "time": "Время",
+      "symbolsInSeconds": "Зн./мин."
+    },
+    "refresh": "Обновить",
+    "selectLanguage": "Язык Текста"
   }
 }

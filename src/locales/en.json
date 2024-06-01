@@ -11,5 +11,15 @@
   },
   "homeView": {
     "slogan": "Bro, you have a keyboard, why don't you use it, just practice."
+  },
+  "trainingView": {
+    "repeatAgain": "Repeat Again",
+    "statistic": {
+      "accuracy": "Accuracy",
+      "time": "Time",
+      "symbolsInSeconds": "Sym./min."
+    },
+    "refresh": "Refresh",
+    "selectLanguage": "Text Language"
   }
 }
